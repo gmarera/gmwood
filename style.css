@@ -1,0 +1,21 @@
+* {
+    background-color: #000000;
+}
+
+.body {
+    color: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.logo {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto; 
+    padding: 20px 0;
+    border-radius: 10px;
+    
+}
